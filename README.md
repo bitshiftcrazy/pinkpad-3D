@@ -13,7 +13,23 @@ So that’s exactly what happened.
 The full (minimally) chaotic write-up, hardware details, software setup, assembly process, and mistakes live on my blog:
 
 ➡️ Full build log: https://missmolerat.com/posts/pinkpad/
+---
 
+## Is the PinkPad a cyberdeck or not?
+
+Per definition, I’d say it very much is.
+
+Back when I originally built it though, I intentionally avoided the term for a few reasons:
+
+- at the time cyberdecks were often very “tactical”, rugged and “hacker bro” coded aesthetically, I wanted something pink, playful and unapologetically girly instead, and I also wanted it to maybe appeal to other girls who normally wouldn’t see themselves in that space
+- many cyberdecks also felt more like cyberpunk art objects than practical computers: absolutely cool looking, but often bulky, fragile or not really meant for long-term everyday use
+- my actual motivation was simply wanting one of those tiny mini laptops/netbooks that suddenly became popular early pandemic, but during lockdown they were either unavailable or absurdly expensive
+
+So back then I avoided the word.
+
+Nowadays though the cyberdeck scene has become way broader and way more creative, and thankfully no longer feels nearly as narrow as it used to.
+
+So yes: nowadays I’m perfectly comfortable calling the PinkPad a cyberdeck, too.
 ---
 
 # Gallery
