@@ -108,6 +108,27 @@ WIP! I was completely surprised this project gained attention six years after it
 ```text
 .
 ├── pics/        # README images
-├── configs/     # Useful configuration snippets
+├── pink_paw/    # paw mouse code and configs
 ├── docs/        # Additional notes
 └── misc/        # Random supporting files
+```
+
+# As Seen In
+
+A wonderful article and collection of cyberdecks and DIY computing
+projects that, imho, really captures the spirit of the
+cyberdeck community:
+
+- MAKE  
+  https://makezine.com/article/technology/computers-mobile/destroy-big-tech-with-a-salvaged-cyberdeck/
+
+## PinkPad Articles
+
+- Hackster.io  
+  https://www.hackster.io/news/this-pink-toy-laptop-is-actually-a-fully-functional-arch-linux-machine-53caac3c2b39
+
+- Adafruit Blog  
+  https://blog.adafruit.com/2026/05/13/turning-a-toy-into-a-linux-cyberdeck-with-raspberry-pi/
+
+- Hackaday  
+  https://hackaday.com/2026/05/13/vtech-toy-becomes-pinkpad-the-diy-linux-laptop/
