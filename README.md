@@ -113,7 +113,7 @@ WIP! I was completely surprised this project gained attention six years after it
 └── misc/        # Random supporting files
 ```
 
-# As Seen In
+# Further Reading
 
 A wonderful article and collection of cyberdecks and DIY computing
 projects that, imho, really captures the spirit of the
