@@ -32,7 +32,7 @@ Nowadays though the cyberdeck scene has become way broader and way more creative
 So yes: nowadays I’m perfectly comfortable calling the PinkPad a cyberdeck, too.
 ---
 
-# Gallery
+## Gallery
 
 <table>
 <tr>
@@ -55,7 +55,7 @@ So yes: nowadays I’m perfectly comfortable calling the PinkPad a cyberdeck, to
 </table>
 
 
-# What is this?
+## What is this?
 
 PinkPad is a heavily modified toy laptop based on:
 
@@ -76,7 +76,7 @@ And yes, it runs Arch, btw.
 
 ---
 
-# Highlights
+## Highlights
 
 - Fully functional Arch Linux system
 - WiFi
@@ -87,7 +87,7 @@ And yes, it runs Arch, btw.
 
 ---
 
-# Hardware
+## Hardware
 
 Main components used:
 
@@ -101,7 +101,7 @@ The exact parts, assembly notes, and build process are documented in the blog po
 
 ---
 
-# WIP: Repository Contents
+## WIP: Repository Contents
 
 WIP! I was completely surprised this project gained attention six years after its birth, so have some patience, detailed configs and docs follow ;)
 
@@ -113,16 +113,27 @@ WIP! I was completely surprised this project gained attention six years after it
 └── misc/        # Random supporting files
 ```
 
-# Further Reading
+## Further Reading
 
-A wonderful article and collection of cyberdecks and DIY computing
-projects that, imho, really captures the spirit of the
-cyberdeck community:
+## Further Reading
 
-- MAKE  
-  https://makezine.com/article/technology/computers-mobile/destroy-big-tech-with-a-salvaged-cyberdeck/
+Some general reading about cyberdecks that happens to mention the PinkPad
+and that I consider well written (judged by the highly professional
+standards of someone who usually only reads and writes C code ;))
 
-## PinkPad Articles
+- **taz by Elisa Pfleger**  
+  A thoroughly researched German-language article about the feminist and
+  anti-capitalist ideas within the contemporary cyberdeck movement,
+  written by Elisa Pfleger for my favourite leftist newspaper.  
+  [https://taz.de/Cyberdeck-Trend-Junge-Frauen-gehen-mit-selbstgebauten-kleinen-Computern-viral/!6201838/](https://taz.de/Cyberdeck-Trend-Junge-Frauen-gehen-mit-selbstgebauten-kleinen-Computern-viral/!6201838/)
+
+- **MAKE**  
+  A wonderful article and collection of cyberdecks and DIY computing
+  projects that, imho, really captures the spirit of the cyberdeck
+  community.  
+  [https://makezine.com/article/technology/computers-mobile/destroy-big-tech-with-a-salvaged-cyberdeck/](https://makezine.com/article/technology/computers-mobile/destroy-big-tech-with-a-salvaged-cyberdeck/)
+
+### PinkPad Articles
 
 - Hackster.io  
   https://www.hackster.io/news/this-pink-toy-laptop-is-actually-a-fully-functional-arch-linux-machine-53caac3c2b39
